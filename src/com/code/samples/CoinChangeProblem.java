@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class CoinChangeProbem {
+public class CoinChangeProblem {
 	
 	/*The Coin Change Problem is a classic computer science challenge 
 	 * asking for the fewest coins (or total ways) to make a target 
