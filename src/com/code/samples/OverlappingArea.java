@@ -2,6 +2,8 @@ package com.code.samples;
 
 public class OverlappingArea {
 	
+	/* calcuate the area of overlap between two rectangles, return zero if there is no overlap **/
+	
 	public static int overlappingArea(int[] rect1BottomLeft, int[] rect1TopRight, 
 			int[] rect2BottomLeft, int[] rect2TopRight) {
 		
