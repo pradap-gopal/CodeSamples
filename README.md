@@ -18,3 +18,7 @@ sample java implementaions for various standard algorithm and data structure pro
 
 #9, Unique Pair of Strings.
 
+#10, Pattern Compile
+
+#11, SHA 256 Hasher
+
