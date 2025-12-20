@@ -14,3 +14,7 @@ sample java implementaions for various standard algorithm and data structure pro
 
 #7, Active Stock Customer
 
+#8, Balanced String
+
+#9, Unique Pair of Strings.
+
